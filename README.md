@@ -18,4 +18,5 @@ to figure out the mathematics required at the time I wrote the program.
 We were supplied with some files, and then had to fill the rest in, and create our own classes. I completed the work
 in bluejay.
 
-I have included the orignal brief and a executable jar with the COMP102 library inside ready to be run
+I have included the orignal brief (AssingmentBrief.pdf), the orignal source files given to us for the assignment 
+(AssignmentSourceFiles.zip) and a executable jar with the COMP102 library inside ready to be run (MiniDraw.jar)
