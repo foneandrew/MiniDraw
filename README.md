@@ -17,3 +17,5 @@ in bluejay.
 
 I have included the orignal brief (AssingmentBrief.pdf), the orignal source files given to us for the assignment 
 (AssignmentSourceFiles.zip) and a executable jar with the COMP102 library inside ready to be run (MiniDraw.jar)
+
+Note: This was a very early assignment and as such my Java skills might not be as good as they are now (code layout and commenting etc). However the end result is still a very fun program with alot of neat features.
