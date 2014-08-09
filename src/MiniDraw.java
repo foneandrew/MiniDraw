@@ -41,9 +41,6 @@ User Interface:
 There are buttons for dealing with the whole drawing (New, Load, Save),
 buttons for specifying the next shape to draw, and
 buttons for moving and removing shapes, and setting the color.
-
-THIS PROGRAM IS A BIT OF A MESS. I DIDNT REALLY BOTHER TO FIX IT UP AFTER I GOT EVERYTHING WORKING FOR FEAR OF BREAKING IT BEFORE HANDIN.
-
  */
 
 public class MiniDraw implements UIButtonListener, UIMouseListener{
